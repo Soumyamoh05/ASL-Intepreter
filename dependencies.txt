@@ -1,0 +1,17 @@
+# Numerical operations and handling .npy label files
+numpy==1.23.5
+
+# Computer vision (webcam input, frame capture, image processing)
+opencv-python==4.8.0.76
+
+# Hand tracking and landmark detection (core for gesture recognition)
+mediapipe==0.10.9
+
+# Deep learning framework (used for CNN and LSTM models)
+tensorflow==2.12.0
+
+# Machine learning utilities (train-test split, preprocessing)
+scikit-learn==1.2.2
+
+# Required for saving and loading .h5 model files
+h5py==3.8.0
