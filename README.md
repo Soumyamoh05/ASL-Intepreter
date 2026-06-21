@@ -79,7 +79,7 @@ ASL-Interpreter/
 │── train_cnn.py          # Model training using CNN
 │── train_lstm.py         # Model training using LSTM
 │── dependencies.txt      # Lists down the requirements
-│── README.md
+└──README.md
 ```
 
 ---
